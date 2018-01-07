@@ -1,2 +1,3 @@
 # Coursera
-Course assignments accomplished on Coursera
+Statistical Inference course-Coursera
+by John Hopkins University
